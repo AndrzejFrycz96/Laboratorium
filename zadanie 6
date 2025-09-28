@@ -1,9 +1,8 @@
-
 <html>
 <body>
 <h1>Moj blog </h1>
 <h2>Newsy</h2>
-<p>Podstrona z wiadomościami 
+<p style="color: red; font-size: 40px;">Podstrona z wiadomościami 
 <a href="https://www.onet.pl">Przejdź do strony Onet</a>
 </p>
 <h3>Pogoda</h3>
@@ -13,7 +12,7 @@
     <li>Opady</li>
 
 </ul>
-<p>Podstrona wyświetlająca pogodę 
+<p style="color: orange;font-size: 40px;">Podstrona wyświetlająca pogodę 
 <a href="https://pogoda.interia.pl/prognoza-dlugoterminowa-krakow,cId,4970">Przejdź do strony z aktualna pogoda w Krakow</a>
 </p>
 <img src="krzyk.jfif" alt="Opis obrazka">
