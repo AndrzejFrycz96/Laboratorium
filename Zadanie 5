@@ -28,6 +28,8 @@ onet.pl
 18.238.80.45Check IP Blacklist
 Owner: Amazon.com Inc. United States of America  WHOIS  AS16509
 
+Onet jest tylko na USA. 
+
 gov.pl 
 
 Type
@@ -70,7 +72,7 @@ gov.pl
 h-dns.pl. (185.159.198.48Check IP Blacklist)
 Owner: Canadian Internet Registration Authority Canada  WHOIS  AS394354
 
-
+Co ciekawe strona rządu polskiego jest nie tylko w Polsce ale również na serwerze w USA,Kanadzie,UK i Austrii co wydaje się dość interesujące. 
 
 gov.il Type
 Domain Name
@@ -129,3 +131,46 @@ gov.il
 600
 ns4.ns.il. (204.61.216.134Check IP Blacklist)
 Owner: Woodynet Inc. United States of America  WHOIS  AS42
+
+Izraelska strona rządowa trafia co dość śmieszne do Niemiec, a także USA, Izraela oraz Szwecji 
+
+nasa.com
+
+Type
+Domain Name
+TTL
+Canonical Name
+NS
+nasa.com
+3600
+ns1.parkingcrew.net. (13.248.158.159Check IP Blacklist)
+Owner: Amazon Technologies Inc. United States of America  WHOIS  AS16509
+
+NS
+nasa.com
+3600
+ns2.parkingcrew.net. (76.223.21.9Check IP Blacklist)
+Owner: Amazon.com Inc. United States of America  WHOIS  AS16509
+Type
+Domain Name
+TTL
+Preference
+Address
+MX
+nasa.com
+3220
+5
+mail.h-email.net.(5.75.171.74Check IP Blacklist)
+Owner: Hetzner Online GmbH Germany  WHOIS  AS24940
+
+Type
+Domain Name
+TTL
+Address
+A
+nasa.com
+64
+104.247.81.52Check IP Blacklist
+Owner: Team Internet AG Canada  WHOIS  AS206834
+
+NASA trafia do USA,Niemiec i Kanady 
